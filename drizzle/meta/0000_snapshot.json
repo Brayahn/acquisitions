@@ -37,7 +37,7 @@
           "type": "varchar(50)",
           "primaryKey": false,
           "notNull": true,
-          "default": "'user'"
+          "default": "user"
         },
         "created_at": {
           "name": "created_at",
